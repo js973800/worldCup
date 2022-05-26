@@ -56,7 +56,7 @@
                                 }
                             %>
                             </div>
-                                <button type="submit" id="sub">다음 강으로</button>
+                                <button type="submit" id="sub">다음 로</button>
                             </form>                                                                                    
                         </div>
                     </div>
