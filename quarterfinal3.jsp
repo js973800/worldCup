@@ -34,7 +34,7 @@
                     <div class="row">
                         <div class="box_co">
                             <div class="toptop">8강</div>  
-                            <form action="semifinal2.jsp">
+                            <form action="semifinal.jsp">
                             <div id="wleft" class="l1">
                             <%    
                                 for(int i=0;i<arr2.length;i=i+2){           
