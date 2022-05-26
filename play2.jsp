@@ -51,7 +51,7 @@
                                 }
                             %>
                             </div>
-                                <button type="submit" id="sub">다음 강으로</button>
+                                <button type="submit" id="sub">다음 라운드로</button>
                             </form>
                             <%    
                             }else if(round==8){
@@ -79,7 +79,7 @@
                                 }
                             %>
                             </div>
-                                <button type="submit" id="sub">다음 강으로</button>
+                                <button type="submit" id="sub">다음 라운드로</button>
                             </form>
                             <%
                             }else if(round==16){
@@ -107,7 +107,7 @@
                                 }
                             %>
                             </div>
-                                <button type="submit" id="sub">다음 강으로</button>
+                                <button type="submit" id="sub">다음 로</button>
                                 
                             </form>
                             <%
